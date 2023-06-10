@@ -2,8 +2,8 @@ YouTube: 18.19.35
 YouTube-Extended: 18.17.43  
 Music: 5.39.52  
 Music-Extended: 6.05.51  
-Twitter: 9.91.0-release.0  
-TikTok: 29.9.2  
+Twitter: 9.92.0-release.0  
+TikTok: 29.9.4  
 Reddit: 2023.22.0  
 Messenger: 412.0.0.15.69  
 
