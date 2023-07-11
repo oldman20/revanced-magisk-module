@@ -1,6 +1,6 @@
 {
-  "version": "v6.08.50",
-  "versionCode": 10,
-  "zipUrl": "https://github.com/oldman20/revanced-magisk-module/releases/download/10/music-revanced-magisk-v6.08.50-arm64-v8a.zip",
+  "version": "v6.10.51",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/oldman20/revanced-magisk-module/releases/download/11/music-revanced-magisk-v6.10.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/oldman20/revanced-magisk-module/update/build.md"
 }
