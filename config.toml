@@ -64,7 +64,6 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 included-patches = "'Enable slide to seek' 'Custom branding' 'Change header' 'Remove player controls background'"
-patcher-args = "-OappName=YouTube -OiconPath=mmt "arch = "arm64-v8a"
 
 [Reddit-Extended]
 patches-source = "inotia00/revanced-patches"
