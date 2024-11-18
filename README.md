@@ -93,7 +93,7 @@ Settings - revanced - video - default playback speed.
 
 Tắt spoof thì revanced -misc - spoof client - uncheck cái spoof client to ios.
 
-[**edit lại mục tác giả hiện trong module ksu/ magisk**](https://github.com/oldman20/revanced-magisk-module/blob/main/utils.sh#L602) (seach keyword `author=j-hc` trong *utils.sh*)
+[**edit lại mục tác giả hiện trong module ksu/ magisk**](https://github.com/oldman20/revanced-magisk-module/blob/main/utils.sh#L613) (seach keyword `author=j-hc` trong *utils.sh*)
 
 # [Revancify](https://github.com/decipher3114/Revancify)
 
