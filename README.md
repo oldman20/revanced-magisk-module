@@ -1,3 +1,5 @@
+[Vấn đề về fork của fork repo](https://voz.vn/t/youtube-revanced-tong-hop-megathread.738770/post-34622971)
+
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 # [OTHERS REVANCED APP APK](https://github.com/oldman20/ReVanced-Extended-Automated-Builder)
 
