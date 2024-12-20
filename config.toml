@@ -11,7 +11,7 @@ riplib = true # enables ripping x86 and x86_64 libs from apks with j-hc revanced
 build-mode = "both"
 excluded-patches = ""
 included-patches = "'Custom header for YouTube' 'Force hide player buttons background' 'Hide Shorts dimming' 'Hide shortcuts' 'MaterialYou' 'Return YouTube Username' 'Enable slide to seek' 'Remove player controls background' 'Custom branding' 'Change header'" 
-patcher-args = "-OappName=YouTube -OiconPath=mmt "
+patcher-args = "--legacy-options=./options.json -OappName=YouTube -OiconPath=mmt "
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -35,6 +35,7 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 included-patches = "'Custom header for YouTube Music' 'Hide overlay filter' 'Hide player overlay filter' 'Return YouTube Username'"
+patcher-args = "--legacy-options=./options.json"
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -46,6 +47,7 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 included-patches = "'Custom header for YouTube' 'Force hide player buttons background' 'Hide Shorts dimming' 'Hide shortcuts' 'MaterialYou' 'Return YouTube Username'"
+patcher-args = "--legacy-options=./options.json"
 arch = "arm64-v8a"
 
 [Twitter]
@@ -66,6 +68,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 arch = "arm64-v8a"
 included-patches = "'Change package name' 'Custom branding name for Reddit'"
+patcher-args = "--legacy-options=./options.json"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
