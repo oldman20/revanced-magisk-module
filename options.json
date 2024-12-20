@@ -1,0 +1,51 @@
+[
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "mmt"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "YouTube Music Revanced Extended"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "YTMusic"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "mmt"
+      }
+    ]
+  },
+  {
+    "patchName": "Change package name",
+    "options": [
+      {
+        "key": "PackageNameReddit",
+        "value": "com.rvx.reddit.frontpage"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for Reddit",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "Reddit RVX"
+      }
+    ]
+  }
+]
