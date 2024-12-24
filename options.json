@@ -3,7 +3,7 @@
     "patchName": "Custom branding icon for YouTube",
     "options": [
       {
-        "key": "appIcon",
+        "key": "AppIcon",
         "value": "mmt"
       }
     ]
@@ -25,7 +25,7 @@
     "patchName": "Custom branding icon for YouTube Music",
     "options": [
       {
-        "key": "appIcon",
+        "key": "AppIcon",
         "value": "mmt"
       }
     ]
