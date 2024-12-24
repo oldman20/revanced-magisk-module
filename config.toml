@@ -11,7 +11,7 @@ riplib = true # enables ripping x86 and x86_64 libs from apks with j-hc revanced
 build-mode = "both"
 excluded-patches = ""
 included-patches = "'Custom header for YouTube' 'Force hide player buttons background' 'Hide Shorts dimming' 'Hide shortcuts' 'MaterialYou' 'Return YouTube Username' 'Enable slide to seek' 'Remove player controls background' 'Custom branding' 'Change header'" 
-patcher-args = "--legacy-options=./options.json -OappName=YouTube -OiconPath=mmt "
+#patcher-args = "--legacy-options=./options.json -OappName=YouTube -OiconPath=mmt " #revanced stock not support legacy option
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
