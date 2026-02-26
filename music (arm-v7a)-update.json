@@ -1,6 +1,6 @@
 {
   "version": "v8.10.52 (patches 5.50.2.rvp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/oldman20/revanced-magisk-module/releases/download/1/music-revanced-module-v8.10.52-arm-v7a.zip",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/oldman20/revanced-magisk-module/releases/download/2/music-revanced-module-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/oldman20/revanced-magisk-module/update/build.md"
 }
