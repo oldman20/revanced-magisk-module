@@ -1,3 +1,5 @@
+GooglePhotos (arm64-v8a): 7.65.0.874788995  
+GooglePhotos (arm-v7a): 7.65.0.874788995  
 Music (arm64-v8a): 8.10.52  
 Music (arm-v7a): 8.10.52  
 Music-Morphe (arm64-v8a): 8.40.54  
