@@ -12,7 +12,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 Patches: crimera/patches-3.2.0.mpp  
 [Changelog](https://github.com/crimera/piko/releases/tag/v3.2.0)
 
-CLI: MorpheApp/morphe-cli-1.8.0-all.jar  
+CLI: MorpheApp/morphe-cli-1.8.1-all.jar  
 Patches: MorpheApp/patches-1.26.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.26.0)
 
