@@ -1,6 +1,6 @@
 {
-  "version": "v7.92.0.977185651 (patches 1.6.3.mpp)",
-  "versionCode": 83,
-  "zipUrl": "https://github.com/oldman20/revanced-magisk-module/releases/download/83/googlephotos-devanced-module-v7.92.0.977185651-all.zip",
+  "version": "v7.92.0.977185651 (patches 1.6.4.mpp)",
+  "versionCode": 84,
+  "zipUrl": "https://github.com/oldman20/revanced-magisk-module/releases/download/84/googlephotos-devanced-module-v7.92.0.977185651-all.zip",
   "changelog": "https://raw.githubusercontent.com/oldman20/revanced-magisk-module/update/build.md"
 }
